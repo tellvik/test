@@ -1,1 +1,1 @@
-console.log('test2.js version 2');
+console.log('test2.js version 3');
